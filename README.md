@@ -1,5 +1,6 @@
 # NFL Receiver Clusters 
 
+![](https://github.com/KwasiArhin/NflClusterAnalysis/blob/master/images/cmc1.gif?raw=true)
 
 ## Introduction
 
