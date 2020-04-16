@@ -2,6 +2,8 @@
 
 ![](https://github.com/KwasiArhin/NflClusterAnalysis/blob/master/images/cmc1.gif?raw=true)
 
+![](https://github.com/KwasiArhin/NflClusterAnalysis/blob/master/Images/cmc.mp4?raw=true)
+
 ## Introduction
 
 The NFL has transitioned to a passing league over the last decade. More than ever before pass records are being broken. In this project I wanted to see if I could make useful clusters using the Air Yards and Yards after catch statistics.  
