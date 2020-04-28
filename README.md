@@ -16,11 +16,6 @@ This dataset was scrapped from the website profootballrefrence with the aid of R
 The dataset contains 45546 plays and is accompanied by 256 columns.
 
 
-![Distribution of YAC](README/Distribution%20of%20YAC.png)
-
-![Cluster_means](README/table_clust.png)
-
-
 
 ## Introduction
 
