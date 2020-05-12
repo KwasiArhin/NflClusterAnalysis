@@ -27,29 +27,6 @@ In this project, I provide you with the methodology necessary to reconstruct the
 
 ## Methodology
 
-Removing the background from a video is a pretty trivial task when we have a known background. Unfortunately, there will be situations in which the background is unknown, and it has to be modeled using video data. The approach presented in this project is experimental and only works under particular assumptions, but when a video meets those assumptions, it yields satisfactory results.
-
-**Assumptions:**
-
-
-
-
-
-**Background Reconstruction**
-
-
-
-
-
-**Background Removal**
-
-
-
-
-
-**Foreground Extraction**
-
-
 
 
 ## Future Work
